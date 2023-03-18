@@ -89,7 +89,7 @@ Imparte: Samuel Garrido
 # Calificaciones 🥇🥈🥉
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
-|1|                         |||||
+|1|Rene Leonardo Ahumada Lemus                   |||||
 |2|                         |||||
 |3|                         |||||
 |4| Carrasco Meza Alan Michel |||||
@@ -100,7 +100,7 @@ Imparte: Samuel Garrido
 |9|                         |||||
 |10| Garcia Acevedo Jonathan Enrique   |||||
 |11|                         |||||
-|12|                         |||||
+|12| Gonzalez Frias Ana Paula                        |||||
 |13|                         |||||
 |14|                         |||||
 |15| Jimena Hernández García |||||
@@ -108,7 +108,7 @@ Imparte: Samuel Garrido
 |17|  Angel Alberto Lechuga Milpas                       |||||
 |18|                         |||||
 |19|                         |||||
-|20|                         |||||
+|20|Márquez Sánchez Mirna Daniela   |||||
 |21| Alejandro Jair Marquina Vazquez|||||
 |22|Martínez Rosales Hugo Armando|||||
 |23|Meza Sánchez Luis Arturo  |||||
@@ -117,11 +117,11 @@ Imparte: Samuel Garrido
 |26|                         |||||
 |27|                         |||||
 |28|Roldan Montero Hugo Alejandro                         |||||
-|29|                         |||||
+|29|Romero Garía Diana Sofía|||||
 |30|Rufino Lopez Maria Elena |||||
 |31|                         |||||
 |32|                         |||||
-|33|                         |||||
+|33|Jenyfer Estefanya Sanchez Gachuz|||||
 |34|Erika Xitlaly Sotelo Perez|||||
 |35|                         |||||
 |36|                         |||||
